@@ -112,7 +112,7 @@ public class authentification extends JFrame {
                 e.printStackTrace();
             }
 
-            LoginWindow loginWindow = new LoginWindow();
+            authentification loginWindow = new authentification();
         });
     }
 }
