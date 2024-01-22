@@ -47,7 +47,7 @@ public class MortuaryServiceForm {
         panel.add(patientsList);
         
 
-        // Add more components as needed...
+      
         JLabel nonhospitalisationLabel = new JLabel("Non Hospitalisé");
         nonhospitalisationLabel.setBounds(10, 120, 80, 25);
         panel.add(nonhospitalisationLabel);
